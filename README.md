@@ -38,7 +38,7 @@ Process:
     - position of bottom lid 
     - positon of upper during blink
  
- envisioned enhancements: pre analyses of extracted blink data 
+ envisioned enhancements: 
   - optimised values for onset/ offset confidence threshold and filter length 
   conditions: - check for blink duration - more than 1.5-2 sec is unbelivable 
   
