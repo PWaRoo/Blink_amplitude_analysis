@@ -1,6 +1,8 @@
 # Blink_amplitude_analysis
 
-required sources from pupil labs eye-tracking data: 
+Blink_meta_data_single_dataset.ipynb indicate the recording quality for blink analyses  
+
+reqired sources from pupil labs eye-tracking data: 
  - eye videos (original) 
  - pupil_positions.csv
  - blinks.csv 
